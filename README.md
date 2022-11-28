@@ -2,7 +2,7 @@
 ## RanishaDas-Portfolio
 
 Project Description:
-Pursuing a Master’s in Interaction and Experience Design from U.L., Ranisha Das’s UX portfolio website certainly demonstrates her skills as an innovative strategist. She’s crafted a well-defined visual language for her site, which is sweet and simple. The website is made up of shades of turquoise, graphical icons, shapes, and PLENTY of white space.
+Pursuing a Master’s in Interaction and Experience Design from U.L., Ranisha Das’s UX portfolio website certainly demonstrates her skills as an innovative strategist. She’s crafted a well-defined visual language for her site, which is sweet and simple. The website is developed using HTML, CSS and Javascript that resulting in a website made up of shades of turquoise, graphical icons, shapes, and PLENTY of white space.
 In addition, subtle touches like a dark mode feature, really gives the portfolio an edge. Last but not least, Ranisha has brought all her work experience and project works together by incorporating a striking visual on her site page.
 
 Table of contents:
